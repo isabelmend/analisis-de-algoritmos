@@ -15,14 +15,7 @@ Este sitio forma parte de mi portafolio académico y está diseñado para docume
 
 ---
 
-## 📂 Notebooks
-Todos los notebooks utilizados para los análisis y experimentos están disponibles en la carpeta:
-
-👉 [`notebooks/`](notebooks)
-
----
-
 ## ✨ Sobre este sitio
-Este repositorio está publicado como sitio web mediante **GitHub Pages**.  
+Este repositorio está publicado como sitio web mediante GitHub Pages.  
 El objetivo es mostrar de manera clara y organizada el trabajo desarrollado a lo largo del curso, con una estructura sencilla y accesible para consulta.
 

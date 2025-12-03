@@ -17,7 +17,7 @@ Introducir los conceptos fundamentales para el análisis de algoritmos, tales co
 ## 📓 Notebook de la unidad
 Puedes consultar el notebook completo aquí:
 
-👉 [`notebooks/unidad1.ipynb`](notebooks/unidad1.html)
+👉 [`notebooks/unidad1.html`](notebooks/unidad1.html)
 
 
 

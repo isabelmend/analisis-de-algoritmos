@@ -13,7 +13,7 @@ Analizar el rendimiento de algoritmos de unión e intersección de conjuntos rep
 ---
 
 ## 📓 Notebook
-👉 [`notebooks/unidad5.ipynb`](notebooks/unidad5.html)
+👉 [`notebooks/unidad5.html`](notebooks/unidad5.html)
 
 
 
