@@ -15,7 +15,7 @@ Implementar y analizar algoritmos de ordenamiento de arreglos con costo óptimo 
 ---
 
 ## 📓 Notebook
-👉 [`notebooks/unidad3.html`](notebooks/unidad3.html)
+👉 [`Unidad_3`](notebooks/unidad3.html)
 
 
 

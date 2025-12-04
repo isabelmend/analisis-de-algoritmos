@@ -14,6 +14,6 @@ Analizar algoritmos de búsqueda en arreglos ordenados basados en funciones de c
 ---
 
 ## 📓 Notebook
-👉 [`notebooks/unidad4.html`](notebooks/unidad4.html)
+👉 [`Unidad_4`](notebooks/unidad4.html)
 
 

@@ -15,7 +15,7 @@ Implementar, aplicar y caracterizar el desempeño de algoritmos en peor caso y a
 ---
 
 ## 📓 Notebook de la unidad
-👉 [`notebooks/unidad2.html`](notebooks/unidad2.html)
+👉 [`Unidad_2`](notebooks/unidad2.html)
 
 
 
